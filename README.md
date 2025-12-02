@@ -1,6 +1,5 @@
 # Advanced Map War Thunder
-
-<img width="1919" height="1199" alt="Screenshot 2025-12-02 203631" src="https://github.com/user-attachments/assets/7d9145e0-c470-4089-bda6-bafd4945c46f" />
+<img width="1919" height="1199" alt="Screenshot 2025-12-02 203932" src="https://github.com/user-attachments/assets/3d052eff-4a4e-47e9-aa7f-9618d6610b01" />
 
 Продвинутое приложение для визуализации данных War Thunder через локальный API (localhost:8111). Приложение предоставляет интерактивную карту с отображением всех объектов, чат, индикаторы полета, состояние самолета и информацию о миссии в реальном времени.
 
