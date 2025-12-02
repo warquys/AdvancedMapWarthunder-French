@@ -1,0 +1,5 @@
+// Resource file for embedding font into exe
+#include <windows.h>
+
+1 RCDATA "..\\font\\symbols_skyquake.ttf"
+

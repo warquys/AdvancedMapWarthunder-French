@@ -1,6 +1,6 @@
-MIT License
+The MIT License (MIT)
 
-Copyright (c) 2025 Advanced Map War Thunder Contributors
+Copyright (c) 2014-2025 Omar Cornut
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,21 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-## Зависимости и их лицензии
-
-### ImGui
-Используется библиотека ImGui (https://github.com/ocornut/imgui)
-Лицензия: MIT License
-Copyright (c) 2014-2025 Omar Cornut
-
-### War Thunder Localhost Documentation
-Используется документация из репозитория:
-https://github.com/lucasvmx/WarThunder-localhost-documentation
-Лицензия: GPL-3.0
-Copyright (c) Lucas Vieira
-
-Данная документация используется только в качестве справочного материала
-и не является частью исполняемого кода данного проекта.
