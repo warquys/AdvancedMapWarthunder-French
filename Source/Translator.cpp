@@ -110,7 +110,7 @@ Translator::Translator() {
         {"aircraft_data_fmt", "Данные самолета: %s"},
         {"compass_data_fmt", "Компас: %.1f°"},
         {"mach_data_fmt", "Число Маха: %.2f"},
-        {"g_meter_data_fmt", "ЧПерегрузка: %.2f"},
+        {"g_meter_data_fmt", "Перегрузка: %.2f"},
         {"gear_released_state", " (выпущено)"},
         {"gear_retracted_state", " (убрано)"},
         {"gear_in_progress_state", " (в процессе)"},
